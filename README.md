@@ -196,7 +196,7 @@ In summary, public repositories are advantageous for open-source projects and co
 
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
-.ChatGPT
+
 
 Making your first commit to a GitHub repository involves several steps. Here’s a detailed guide:
 
